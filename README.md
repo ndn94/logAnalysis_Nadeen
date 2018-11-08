@@ -23,7 +23,7 @@ The project answers the following reporting questions:
 ###### Run the following commands from the terminal in the folder where your vagrant is installed in:
 1. `vagrant up`
 2. `vagrant ssh`
-3. `cd /vagrant` **to navigate to vagrant directory 
+3. `cd /vagrant` to navigate to vagrant directory
 4. `python logAnalysis_p1.py`
 
 ## The Used Views 
